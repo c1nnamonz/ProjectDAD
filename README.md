@@ -48,8 +48,8 @@ Functions/Features in the middleware:
    Response: Returns success or failure status.
    
 The database and tables involve in the projects:
-Database: carrental.sql
-Tables Involve: 1. user
-                2. ownercars
-                3. booking
+1. Database: carrental.sql
+2. Tables Involve: i. user
+                   ii. ownercars
+                   iii. booking
 
