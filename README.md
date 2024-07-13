@@ -2,11 +2,11 @@
 
 Total applications involved for this project: 
 1. User: Make bookings involving cars.
-2. Admin: Approve the booking made from the user.
+2. Admin(owner): Approve the booking made from the user.
 
 Brief Explanation for each applications:
 1. User: User can book a car according to their preferences like sit type, car and car brand and also can choose the booking hours from 1 to 23 hours.
-2. Admin: User can approve or decline the booking made by the user(customer) and add a new car if the user wants to.
+2. Admin(owner): User can approve or decline the booking made by the user(customer) and add a new car if the user wants to.
 
 Architecture/Layer Diagram:
 1. We are using RESTful.
@@ -53,3 +53,5 @@ The database and tables involve in the projects:
                    ii. ownercars
                    iii. booking
 
+Video Link:
+https://youtu.be/x4A20Sis-EU
